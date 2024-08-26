@@ -34,8 +34,8 @@
 
 ### 💾 Databases
 
-![mongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![sql](https://img.shields.io/badge/MySql-205375?style=for-the-badge&logo=mysql&logoColor=white)
+![mongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![postgresql](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Other Tools & Libraries
@@ -52,15 +52,14 @@
 
 ![asus-laptop](https://img.shields.io/badge/ASUS-11th_Gen_Intel_Core_i5-0078D6?style=for-the-badge&logo=asus&logoColor=white)
 ![nvidia](https://img.shields.io/badge/NVIDIA-Graphics-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![8gb-ram](https://img.shields.io/badge/RAM-8GB-DD0031?style=for-the-badge&logo=windows&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_11_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://your-portfolio-link)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://your-resume-link)
+<!-- [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://your-portfolio-link)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://your-resume-link) -->
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/BimsaraAnjanaJay/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/BimsaraAnjanaJay)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bimsarajayadewa@gmail.com)
