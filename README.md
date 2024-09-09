@@ -8,13 +8,16 @@
 
 ## 🛠️ Skills
 
-### Languages
+### Languages 
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![sql](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🤩 Front-End Development
 
@@ -34,11 +37,11 @@
 
 ### 💾 Databases
 
-![sql](https://img.shields.io/badge/MySql-205375?style=for-the-badge&logo=mysql&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-205375?style=for-the-badge&logo=mysql&logoColor=white)
 ![mongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![postgresql](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Other Tools & Libraries
+### 🔧 Other Tools
 
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -47,14 +50,7 @@
 ### 🎨 Design Tools
 
 ![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
-## 🖥️ Workspace Setup
-
-![asus-laptop](https://img.shields.io/badge/ASUS-11th_Gen_Intel_Core_i5-0078D6?style=for-the-badge&logo=asus&logoColor=white)
-![nvidia](https://img.shields.io/badge/NVIDIA-Graphics-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_11_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
+![canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## 🔗 Links
 
