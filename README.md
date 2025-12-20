@@ -2,9 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 I'm a passionate **Software Engineering undergraduate**, currently pursuing my degree with an expected graduation in mid-2026. I have a strong foundation in **computer science** and a deep interest in building innovative tech solutions.
+🎓 I’m a final-year Computer Science undergraduate specializing in Software Engineering at the University of Colombo School of Computing.
 
-🎨 Besides coding, I enjoy **designing**, and exploring the latest tech trends. My hobbies keep me creative and motivated to learn and grow every day.
+🔬 Currently, I’m working on my final-year research project, focusing on microservices and software engineering, aligned with my interest in building scalable and maintainable systems.
+
+💡 I enjoy exploring modern technologies, system design, and turning ideas into practical software solutions.
 
 ## 🛠️ Skills
 
@@ -15,6 +17,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![sql](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -32,6 +35,7 @@
 ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![shadcn](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+![ant-design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 
 ### ⚙️ Back-End Development
 
@@ -54,8 +58,8 @@
 ![latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-
+![jaeger](https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black)
+![backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black)
 
 ### 🎨 Design Tools
 
