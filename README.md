@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 I’m a final-year Computer Science undergraduate specializing in Software Engineering at the University of Colombo School of Computing.
+🎓 I am a Software Engineering undergraduate from the University of Colombo School of Computing (UCSC), currently awaiting graduation. I have a strong foundation in software engineering principles and hands-on experience in full-stack development.
 
-🔬 Currently, I’m working on my final-year research project, focusing on microservices and software engineering, aligned with my interest in building scalable and maintainable systems.
+🔬 My interests include building scalable systems and improving software architectures. My final-year research focused on microservices, where I worked on detecting cross-service code duplication and optimizing function placement using static and dynamic analysis.
 
-💡 I enjoy exploring modern technologies, system design, and turning ideas into practical software solutions.
+💡 I enjoy building efficient, user-focused applications and continuously improving my skills by working on real-world problems.
 
 ## 🛠️ Skills
 
