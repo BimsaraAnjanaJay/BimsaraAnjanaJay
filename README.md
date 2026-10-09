@@ -2,11 +2,13 @@
 
 ## 🚀 About Me
 
-🎓 I am a Software Engineering undergraduate from the University of Colombo School of Computing (UCSC), currently awaiting graduation. I have a strong foundation in software engineering principles and hands-on experience in full-stack development.
+👨‍💻 I'm a Software Engineer at eArrow Pvt Ltd and a graduate of the University of Colombo School of Computing (UCSC), with a BSc (Hons) in Software Engineering, Second Class Upper Division.
 
-🔬 My interests include building scalable systems and improving software architectures. My final-year research focused on microservices, where I worked on detecting cross-service code duplication and optimizing function placement using static and dynamic analysis.
+⚙️ I have experience in software development, microservices, and building scalable, reliable, and maintainable applications. My current technical focus includes Go (Golang), Apache Kafka, Redis, and backend system development.
 
-💡 I enjoy building efficient, user-focused applications and continuously improving my skills by working on real-world problems.
+🔬 My final-year research focused on detecting cross-service code duplication in microservices and optimizing function placement using static and dynamic analysis.
+
+💡 I enjoy solving challenging problems, exploring software architecture, and continuously improving my engineering skills through real-world projects and collaboration.
 
 ## 🛠️ Skills
 
@@ -37,6 +39,7 @@
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 
 ### ⚙️ Back-End Development
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Ballerina](https://img.shields.io/badge/Ballerina-323330?style=for-the-badge&logo=ballerina&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -61,7 +64,9 @@
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 📂 Collaboration & Project Management
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-007ACC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![OpenProject](https://img.shields.io/badge/OpenProject-0770B8?style=for-the-badge&logo=openproject&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
